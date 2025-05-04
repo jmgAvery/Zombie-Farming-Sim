@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "ZombieFarmingSimEditor Editor Win64 Development (ZombieFarmingSim)",
+            "compilerPath": "B:\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "B:\\My Games\\ZombieFarmingSim\\.vscode\\compileCommands_ZombieFarmingSim.json"
+            ]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "B:\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "B:\\My Games\\ZombieFarmingSim\\.vscode\\compileCommands_Default.json"
+            ]
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,42 @@
+[
+	{
+		"file": "B:\\My Games\\ZombieFarmingSim\\Source\\ZombieFarmingSim\\Items.cpp",
+		"arguments": [
+			"B:\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@B:\\My Games\\ZombieFarmingSim\\.vscode\\compileCommands_ZombieFarmingSim\\ZombieFarmingSim.1.rsp"
+		],
+		"directory": "B:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "B:\\My Games\\ZombieFarmingSim\\Source\\ZombieFarmingSim\\Items.h",
+		"arguments": [
+			"B:\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@B:\\My Games\\ZombieFarmingSim\\.vscode\\compileCommands_ZombieFarmingSim\\ZombieFarmingSim.1.rsp"
+		],
+		"directory": "B:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "B:\\My Games\\ZombieFarmingSim\\Source\\ZombieFarmingSim\\ZombieFarmingSim.Build.cs",
+		"arguments": [
+			"B:\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@B:\\My Games\\ZombieFarmingSim\\.vscode\\compileCommands_ZombieFarmingSim\\ZombieFarmingSim.1.rsp"
+		],
+		"directory": "B:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "B:\\My Games\\ZombieFarmingSim\\Source\\ZombieFarmingSim\\ZombieFarmingSim.cpp",
+		"arguments": [
+			"B:\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@B:\\My Games\\ZombieFarmingSim\\.vscode\\compileCommands_ZombieFarmingSim\\ZombieFarmingSim.1.rsp"
+		],
+		"directory": "B:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "B:\\My Games\\ZombieFarmingSim\\Source\\ZombieFarmingSim\\ZombieFarmingSim.h",
+		"arguments": [
+			"B:\\Program Files\\Visual Studio\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@B:\\My Games\\ZombieFarmingSim\\.vscode\\compileCommands_ZombieFarmingSim\\ZombieFarmingSim.1.rsp"
+		],
+		"directory": "B:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
